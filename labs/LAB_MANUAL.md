@@ -20,12 +20,12 @@ By completing these laboratory assignments, you will:
 
 | Lab # | Topic | Primary File | Language | Associated Lecture |
 | :--- | :--- | :--- | :--- | :--- |
-| **Lab 01** | Symbolic AI & Expert Systems | [`lab01_prolog_knowledge_base.pl`](file:///Users/ba/TEKVORA_SOFFTWARES/AI_CLASS/labs/lab01_prolog_knowledge_base.pl) | Prolog | Lecture 01 & 04 |
-| **Lab 02** | Rational Agents & Environment Simulation | [`lab02_rational_agent_simulation.py`](file:///Users/ba/TEKVORA_SOFFTWARES/AI_CLASS/labs/lab02_rational_agent_simulation.py) | Python | Lecture 02 |
-| **Lab 03** | Problem Solving & $A^*$ Heuristic Search | [`lab03_search_algorithms_astar.py`](file:///Users/ba/TEKVORA_SOFFTWARES/AI_CLASS/labs/lab03_search_algorithms_astar.py) | Python | Lecture 03 |
-| **Lab 04** | Neural Networks & Soft Computing | [`lab04_pytorch_neural_network.py`](file:///Users/ba/TEKVORA_SOFFTWARES/AI_CLASS/labs/lab04_pytorch_neural_network.py) | Python (PyTorch) | Lecture 03 & 04 |
-| **Lab 05** | NLP Pipeline & Chain of Thought (CoT) | [`lab05_nlp_and_chain_of_thought.py`](file:///Users/ba/TEKVORA_SOFFTWARES/AI_CLASS/labs/lab05_nlp_and_chain_of_thought.py) | Python | Lecture 03 |
-| **Lab 06** | Paradigm Showdown: Symbolic vs. Neural | [`lab06_symbolic_vs_neural_showdown.py`](file:///Users/ba/TEKVORA_SOFFTWARES/AI_CLASS/labs/lab06_symbolic_vs_neural_showdown.py) | Python + Prolog | Lecture 04 |
+| **Lab 01** | Symbolic AI & Expert Systems | [`lab01_prolog_knowledge_base.pl`](file:///Users/ba/TEKVORA_SOFTWARES/AI_CLASS/labs/lab01_prolog_knowledge_base.pl) | Prolog | Lecture 01 & 04 |
+| **Lab 02** | Rational Agents & Environment Simulation | [`lab02_rational_agent_simulation.py`](file:///Users/ba/TEKVORA_SOFTWARES/AI_CLASS/labs/lab02_rational_agent_simulation.py) | Python | Lecture 02 |
+| **Lab 03** | Problem Solving & $A^*$ Heuristic Search | [`lab03_search_algorithms_astar.py`](file:///Users/ba/TEKVORA_SOFTWARES/AI_CLASS/labs/lab03_search_algorithms_astar.py) | Python | Lecture 03 |
+| **Lab 04** | Neural Networks & Soft Computing | [`lab04_pytorch_neural_network.py`](file:///Users/ba/TEKVORA_SOFTWARES/AI_CLASS/labs/lab04_pytorch_neural_network.py) | Python (PyTorch) | Lecture 03 & 04 |
+| **Lab 05** | NLP Pipeline & Chain of Thought (CoT) | [`lab05_nlp_and_chain_of_thought.py`](file:///Users/ba/TEKVORA_SOFTWARES/AI_CLASS/labs/lab05_nlp_and_chain_of_thought.py) | Python | Lecture 03 |
+| **Lab 06** | Paradigm Showdown: Symbolic vs. Neural | [`lab06_symbolic_vs_neural_showdown.py`](file:///Users/ba/TEKVORA_SOFTWARES/AI_CLASS/labs/lab06_symbolic_vs_neural_showdown.py) | Python + Prolog | Lecture 04 |
 
 ---
 
@@ -33,7 +33,7 @@ By completing these laboratory assignments, you will:
 
 Before beginning any lab exercise, activate the course virtual environment in your terminal:
 ```bash
-cd /Users/ba/TEKVORA_SOFFTWARES/AI_CLASS
+cd /Users/ba/TEKVORA_SOFTWARES/AI_CLASS
 source .venv/bin/activate
 ```
 

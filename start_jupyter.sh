@@ -9,7 +9,7 @@ cd "$PROJECT_DIR"
 if [ -f ".venv/bin/activate" ]; then
     source .venv/bin/activate
     echo "====================================================="
-    echo "  🚀 Launching Jupyter Lab with AI Class Environment "
+    echo "   Launching Jupyter Lab with AI Class Environment "
     echo "====================================================="
     jupyter lab labs/interactive_ai_lab.ipynb
 else
